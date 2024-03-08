@@ -1,6 +1,6 @@
 import requests
 
-#Enter date or leave as "now" for this week's games
+#Enter date on next line
 date = "now" # e.g., "2024-03-01" or "now"
 
 def game_schedule():
