@@ -1,2 +1,2 @@
 # NHL-game-IDs
-This is a simple way to get game IDs for upcoming NHL games. Download and run the Python file, then scroll through the results to find the games you're interested in.
+This simple script gets game IDs (needed for API calls) for upcoming NHL games. Download and run "NHL_schedule.py", then scroll through the results to find the game IDs you need.
